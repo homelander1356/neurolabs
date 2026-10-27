@@ -1,0 +1,366 @@
+Самостоятельно собранный набор отдельных фотографий Wikimedia Commons
+Классы: apple, banana, orange. 60 изображений: train 45, test 15.
+Готовые наборы данных для машинного обучения не использовались.
+Фотографии принадлежат перечисленным авторам, съемка от собственного имени не заявляется.
+
+data/test/apple/apple_048.jpg
+File:Bad Rappenau - Bonfeld - Mühlberg - der letzte Apfel des Jahres 2018.jpg
+https://commons.wikimedia.org/wiki/File:Bad_Rappenau_-_Bonfeld_-_M%C3%BChlberg_-_der_letzte_Apfel_des_Jahres_2018.jpg
+Автор: Roman Eisele
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/test/apple/apple_010.jpg
+File:Alexander (apple).jpg
+https://commons.wikimedia.org/wiki/File:Alexander_(apple).jpg
+Автор: Aron Ambrosiani
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/test/apple/apple_026.jpg
+File:Apple briggit.jpg
+https://commons.wikimedia.org/wiki/File:Apple_briggit.jpg
+Автор: Wolfgang Lonien
+Лицензия: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+
+data/test/apple/apple_009.jpg
+File:A Fine Pair of apples - geograph.org.uk - 916522.jpg
+https://commons.wikimedia.org/wiki/File:A_Fine_Pair_of_apples_-_geograph.org.uk_-_916522.jpg
+Автор: Colin Smith
+Лицензия: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+
+data/test/apple/apple_016.jpg
+File:Apfelgalerie Kronprinz-Rudolf.jpg
+https://commons.wikimedia.org/wiki/File:Apfelgalerie_Kronprinz-Rudolf.jpg
+Автор: Weltalf (Diskussion)
+Лицензия: CC BY-SA 3.0 de https://creativecommons.org/licenses/by-sa/3.0/de/deed.en
+
+data/train/apple/apple_023.jpg
+File:Apple 4.jpg
+https://commons.wikimedia.org/wiki/File:Apple_4.jpg
+Автор: Gaurav Dhwaj Khadka
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/apple/apple_029.jpg
+File:Apple on table.jpg
+https://commons.wikimedia.org/wiki/File:Apple_on_table.jpg
+Автор: Kim Siever
+Лицензия: Public domain 
+
+data/train/apple/apple_043.jpg
+File:Aroma (apple).jpg
+https://commons.wikimedia.org/wiki/File:Aroma_(apple).jpg
+Автор: Aron Ambrosiani
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/apple/apple_011.jpg
+File:An Apple A Day (Unsplash).jpg
+https://commons.wikimedia.org/wiki/File:An_Apple_A_Day_(Unsplash).jpg
+Автор: Roberta Sorge robertina
+Лицензия: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+data/train/apple/apple_019.jpg
+File:Apple - Flickr - Stiller Beobachter (2).jpg
+https://commons.wikimedia.org/wiki/File:Apple_-_Flickr_-_Stiller_Beobachter_(2).jpg
+Автор: Stiller Beobachter from Ansbach, Germany
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/apple/apple_033.jpg
+File:Apples (184402731).jpeg
+https://commons.wikimedia.org/wiki/File:Apples_(184402731).jpeg
+Автор: 
+Lucia Condac
+Лицензия: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+
+data/train/apple/apple_017.jpg
+File:Apple (4573302424).jpg
+https://commons.wikimedia.org/wiki/File:Apple_(4573302424).jpg
+Автор: Joe King from Rockledge, Florida
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/apple/apple_002.jpg
+File:01 - A red apple with heart-shaped patch on a plate.jpg
+https://commons.wikimedia.org/wiki/File:01_-_A_red_apple_with_heart-shaped_patch_on_a_plate.jpg
+Автор: Runologe
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/apple/apple_018.jpg
+File:Apple (65921333).jpeg
+https://commons.wikimedia.org/wiki/File:Apple_(65921333).jpeg
+Автор: 
+Mohandoss Sampath
+Лицензия: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+
+data/train/apple/apple_005.jpg
+File:14 juni-1629 (18811997551).jpg
+https://commons.wikimedia.org/wiki/File:14_juni-1629_(18811997551).jpg
+Автор: Magnus Johansson
+Лицензия: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+
+data/train/apple/apple_031.jpg
+File:Apple-2924531 1920.jpg
+https://commons.wikimedia.org/wiki/File:Apple-2924531_1920.jpg
+Автор: Pixel2013
+Лицензия: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+data/train/apple/apple_012.jpg
+File:An Apple.jpg
+https://commons.wikimedia.org/wiki/File:An_Apple.jpg
+Автор: Samswag1319
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/apple/apple_013.jpg
+File:Apfel (14237061759).jpg
+https://commons.wikimedia.org/wiki/File:Apfel_(14237061759).jpg
+Автор: Tim Reckmann from Hamm, Deutschland
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/apple/apple_001.jpg
+File:"Apples of Salem".jpg
+https://commons.wikimedia.org/wiki/File:%22Apples_of_Salem%22.jpg
+Автор: Thamizhpparithi Maari
+Лицензия: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+
+data/train/apple/apple_006.jpg
+File:2 envy apples.jpg
+https://commons.wikimedia.org/wiki/File:2_envy_apples.jpg
+Автор: Corn cheese
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/test/banana/banana_044.jpg
+File:Banana caturra.JPG
+https://commons.wikimedia.org/wiki/File:Banana_caturra.JPG
+Автор: Deyvid Aleksandr Raffo Setti e Eloy Olindo Setti
+Лицензия: Public domain 
+
+data/test/banana/banana_021.jpg
+File:Baby bananas for sale.jpg
+https://commons.wikimedia.org/wiki/File:Baby_bananas_for_sale.jpg
+Автор: BrokenSegue
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/test/banana/banana_033.jpg
+File:Banana 8.jpg
+https://commons.wikimedia.org/wiki/File:Banana_8.jpg
+Автор: Gaurav Dhwaj Khadka
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/test/banana/banana_020.jpg
+File:BaNa... (3806777363).jpg
+https://commons.wikimedia.org/wiki/File:BaNa..._(3806777363).jpg
+Автор: Basheer Olakara
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/test/banana/banana_027.jpg
+File:Banana (2516487176).jpg
+https://commons.wikimedia.org/wiki/File:Banana_(2516487176).jpg
+Автор: Anthony Easton from Montreal, canada
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/banana/banana_031.jpg
+File:Banana 10.jpg
+https://commons.wikimedia.org/wiki/File:Banana_10.jpg
+Автор: SarKaLay စာကလေး
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_034.jpg
+File:Banana 9.jpg
+https://commons.wikimedia.org/wiki/File:Banana_9.jpg
+Автор: Gaurav Dhwaj Khadka
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_043.jpg
+File:Banana bunch, stem wrapped.jpg
+https://commons.wikimedia.org/wiki/File:Banana_bunch,_stem_wrapped.jpg
+Автор: Smokefoot
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_024.jpg
+File:Banana & Sea Cox's Bazar Bangladesh.jpg
+https://commons.wikimedia.org/wiki/File:Banana_%26_Sea_Cox%27s_Bazar_Bangladesh.jpg
+Автор: Bdruhul
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_030.jpg
+File:Banana 0757.jpg
+https://commons.wikimedia.org/wiki/File:Banana_0757.jpg
+Автор: Assianir
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_042.jpg
+File:Banana bunch on wall.jpg
+https://commons.wikimedia.org/wiki/File:Banana_bunch_on_wall.jpg
+Автор: Rangbaz
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_028.jpg
+File:Banana (54284068573).jpg
+https://commons.wikimedia.org/wiki/File:Banana_(54284068573).jpg
+Автор: Choo Yut Shing from Singapore, Singapore
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/banana/banana_002.jpg
+File:181 365+1 Banana (7623220032).jpg
+https://commons.wikimedia.org/wiki/File:181_365%2B1_Banana_(7623220032).jpg
+Автор: Dave Crosby from Devon, England
+Лицензия: CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+
+data/train/banana/banana_029.jpg
+File:Banana - Q503.jpg
+https://commons.wikimedia.org/wiki/File:Banana_-_Q503.jpg
+Автор: Sandra Fauconnier
+Лицензия: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+data/train/banana/banana_012.jpg
+File:4 Bananes.jpg
+https://commons.wikimedia.org/wiki/File:4_Bananes.jpg
+Автор: JeanLed11
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_038.jpg
+File:Banana Extract (4687393054).jpg
+https://commons.wikimedia.org/wiki/File:Banana_Extract_(4687393054).jpg
+Автор: JD Hancock from Austin, TX, United States
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/banana/banana_025.jpg
+File:Banana & can of Blackeye Peas.jpg
+https://commons.wikimedia.org/wiki/File:Banana_%26_can_of_Blackeye_Peas.jpg
+Автор: Thomas Oboe Lee
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_026.jpg
+File:Banana (2).jpg
+https://commons.wikimedia.org/wiki/File:Banana_(2).jpg
+Автор: Ferdous
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/banana/banana_001.jpg
+File:10.5 inch banana.JPG
+https://commons.wikimedia.org/wiki/File:10.5_inch_banana.JPG
+Автор: BrokenSphere
+Лицензия: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+
+data/train/banana/banana_013.jpg
+File:A bunch of bananas.jpg
+https://commons.wikimedia.org/wiki/File:A_bunch_of_bananas.jpg
+Автор: User Carioca
+Лицензия: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+
+data/test/orange/orange_044.jpg
+File:Apelsiner - Flickr - nilsw.jpg
+https://commons.wikimedia.org/wiki/File:Apelsiner_-_Flickr_-_nilsw.jpg
+Автор: Nils Weinander from Stockholm, Sweden
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/test/orange/orange_018.jpg
+File:2014-365-111 Orange Space (13942821996).jpg
+https://commons.wikimedia.org/wiki/File:2014-365-111_Orange_Space_(13942821996).jpg
+Автор: cogdogblog
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/test/orange/orange_039.jpg
+File:Amacunga.jpg
+https://commons.wikimedia.org/wiki/File:Amacunga.jpg
+Автор: IGANZE
+Лицензия: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+data/test/orange/orange_017.jpg
+File:2012-366-353 Juicing It (8290566278).jpg
+https://commons.wikimedia.org/wiki/File:2012-366-353_Juicing_It_(8290566278).jpg
+Автор: cogdogblog
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/test/orange/orange_024.jpg
+File:A box of Orange.jpg
+https://commons.wikimedia.org/wiki/File:A_box_of_Orange.jpg
+Автор: Peachyeung316
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/orange/orange_037.jpg
+File:Accessories of a second life, and an orange. (25289733764).jpg
+https://commons.wikimedia.org/wiki/File:Accessories_of_a_second_life,_and_an_orange._(25289733764).jpg
+Автор: Billie Grace Ward from New York, USA
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/orange/orange_040.jpg
+File:Ambersweet oranges.jpg
+https://commons.wikimedia.org/wiki/File:Ambersweet_oranges.jpg
+Автор: 
+Лицензия: Public domain 
+
+data/train/orange/orange_043.jpg
+File:Apelsinas.JPG
+https://commons.wikimedia.org/wiki/File:Apelsinas.JPG
+Автор: Bearas
+Лицензия: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+
+data/train/orange/orange_020.jpg
+File:20200119- DSC2304-2.jpg
+https://commons.wikimedia.org/wiki/File:20200119-_DSC2304-2.jpg
+Автор: Leho oreho
+Лицензия: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+
+data/train/orange/orange_035.jpg
+File:Ab plant 373.jpg
+https://commons.wikimedia.org/wiki/File:Ab_plant_373.jpg
+Автор: Andrey Butko
+Лицензия: CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+
+data/train/orange/orange_042.jpg
+File:An orange.jpg
+https://commons.wikimedia.org/wiki/File:An_orange.jpg
+Автор: Mati10justin
+Лицензия: CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+
+data/train/orange/orange_025.jpg
+File:A box of orange in Yuen Long.jpg
+https://commons.wikimedia.org/wiki/File:A_box_of_orange_in_Yuen_Long.jpg
+Автор: Peachyeung316
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/orange/orange_014.jpg
+File:2006-09-16 - United Kingdom - England - London - British Museum - Oranges - Cutout - Orange 4889727396.jpg
+https://commons.wikimedia.org/wiki/File:2006-09-16_-_United_Kingdom_-_England_-_London_-_British_Museum_-_Oranges_-_Cutout_-_Orange_4889727396.jpg
+Автор: CGP Grey
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+
+data/train/orange/orange_033.jpg
+File:A zoomed up picture of an orange (cropped).jpg
+https://commons.wikimedia.org/wiki/File:A_zoomed_up_picture_of_an_orange_(cropped).jpg
+Автор: Pxhere
+Лицензия: CC0 http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+data/train/orange/orange_015.jpg
+File:2010-12-14 Maroc Agadir Soukh local market.jpg
+https://commons.wikimedia.org/wiki/File:2010-12-14_Maroc_Agadir_Soukh_local_market.jpg
+Автор: Sir James
+Лицензия: CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+
+data/train/orange/orange_041.jpg
+File:An Orange.jpg
+https://commons.wikimedia.org/wiki/File:An_Orange.jpg
+Автор: Ines diva
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/orange/orange_021.jpg
+File:A Citrus fruit on a Table.jpg
+https://commons.wikimedia.org/wiki/File:A_Citrus_fruit_on_a_Table.jpg
+Автор: IM3847
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/orange/orange_022.jpg
+File:A Green yellow Orange.jpg
+https://commons.wikimedia.org/wiki/File:A_Green_yellow_Orange.jpg
+Автор: V.Thamaraiselvi
+Лицензия: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+
+data/train/orange/orange_005.jpg
+File:04015jfCuisine Bulacan home made foodsfvf 03.jpg
+https://commons.wikimedia.org/wiki/File:04015jfCuisine_Bulacan_home_made_foodsfvf_03.jpg
+Автор: Judgefloro
+Лицензия: Public domain 
+
+data/train/orange/orange_016.jpg
+File:2010-365-124 Still Life (4579895727).jpg
+https://commons.wikimedia.org/wiki/File:2010-365-124_Still_Life_(4579895727).jpg
+Автор: cogdogblog
+Лицензия: CC BY 2.0 https://creativecommons.org/licenses/by/2.0
