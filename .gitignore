@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.cache
+.venv/
+venv/
+.env
+.env.*
+Ultralytics/
+~$*
+Отчет*
+Отчёт*
+**/Отчет*
+**/Отчёт*
