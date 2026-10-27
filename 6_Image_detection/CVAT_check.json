@@ -1,0 +1,135 @@
+{
+  "task_url": "https://app.cvat.ai/tasks/2668404",
+  "job_url": "https://app.cvat.ai/tasks/2668404/jobs/4587926",
+  "frames": [
+    {
+      "frame": 0,
+      "file": "onigiri_003.jpg",
+      "objects": 2
+    },
+    {
+      "frame": 1,
+      "file": "onigiri_005.jpg",
+      "objects": 1
+    },
+    {
+      "frame": 2,
+      "file": "onigiri_006.jpg",
+      "objects": 5
+    },
+    {
+      "frame": 3,
+      "file": "onigiri_008.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 4,
+      "file": "onigiri_009.jpg",
+      "objects": 4
+    },
+    {
+      "frame": 5,
+      "file": "onigiri_014.jpg",
+      "objects": 1
+    },
+    {
+      "frame": 6,
+      "file": "onigiri_016.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 7,
+      "file": "onigiri_017.jpg",
+      "objects": 6
+    },
+    {
+      "frame": 8,
+      "file": "onigiri_019.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 9,
+      "file": "onigiri_020.jpg",
+      "objects": 6
+    },
+    {
+      "frame": 10,
+      "file": "onigiri_021.jpg",
+      "objects": 2
+    },
+    {
+      "frame": 11,
+      "file": "onigiri_022.jpg",
+      "objects": 2
+    },
+    {
+      "frame": 12,
+      "file": "onigiri_030.jpg",
+      "objects": 2
+    },
+    {
+      "frame": 13,
+      "file": "onigiri_031.jpg",
+      "objects": 2
+    },
+    {
+      "frame": 14,
+      "file": "onigiri_032.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 15,
+      "file": "onigiri_033.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 16,
+      "file": "onigiri_034.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 17,
+      "file": "onigiri_035.jpg",
+      "objects": 1
+    },
+    {
+      "frame": 18,
+      "file": "onigiri_037.jpg",
+      "objects": 1
+    },
+    {
+      "frame": 19,
+      "file": "onigiri_038.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 20,
+      "file": "onigiri_042.jpg",
+      "objects": 1
+    },
+    {
+      "frame": 21,
+      "file": "onigiri_046.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 22,
+      "file": "onigiri_047.jpg",
+      "objects": 3
+    },
+    {
+      "frame": 23,
+      "file": "onigiri_048.jpg",
+      "objects": 4
+    },
+    {
+      "frame": 24,
+      "file": "onigiri_050.jpg",
+      "objects": 2
+    }
+  ],
+  "objects": 69,
+  "max_rounding_difference": 3.300000000006076e-05,
+  "export_format": "Ultralytics YOLO Detection 1.0",
+  "job_state": "completed"
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "file": "onigiri_003.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (3).jpg",
+    "split": "train",
+    "objects": 2,
+    "sha256": "08aa955373c194d6fb5d00034c4aa68e59d2fb8e6a28465b6e0b9449c71853f8"
+  },
+  {
+    "file": "onigiri_005.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (5).jpg",
+    "split": "val",
+    "objects": 1,
+    "sha256": "7fd5ff458941b8356e6e1e1ce9acb2ca32caf40c7d6c09c904fa82311a7556dc"
+  },
+  {
+    "file": "onigiri_006.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (6).jpg",
+    "split": "train",
+    "objects": 5,
+    "sha256": "9a481698e0695e3dbf02c58f9ae7acb04c231e8496eb00869eefdb55040b4629"
+  },
+  {
+    "file": "onigiri_008.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (8).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "b090daed87c9d322bdb1a7a1a7a85f8e132a41f0fe3fc8e5f2909f7f6c0855a7"
+  },
+  {
+    "file": "onigiri_009.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (9).jpg",
+    "split": "train",
+    "objects": 4,
+    "sha256": "a5909f7ef36cb860d36c4e8001feebe40e6b8e8ec45c5fa780cff0df97e64e87"
+  },
+  {
+    "file": "onigiri_014.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (14).jpg",
+    "split": "test",
+    "objects": 1,
+    "sha256": "c8ae95a25c8f737caedf2ae7968fe622ad9c49e0d3fcb88f346ef3d7835922e8"
+  },
+  {
+    "file": "onigiri_016.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (16).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "5dd011b9164518985d70a89d41cd490e6ff0efce9d3b2766566ce7d365951af1"
+  },
+  {
+    "file": "onigiri_017.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (17).jpg",
+    "split": "val",
+    "objects": 6,
+    "sha256": "62894fa0532bdcec3510bf0f7f0a70fa7675de1f24391d071cd4e06342c01a6b"
+  },
+  {
+    "file": "onigiri_019.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (19).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "ed62aac439d86d0986a0d7d611f7c81448b813c8ed20331044fef0a889a0fec8"
+  },
+  {
+    "file": "onigiri_020.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (20).jpg",
+    "split": "train",
+    "objects": 6,
+    "sha256": "a4c9c9e1efa39874b619b4710eda083a6ac26433ebf4cc015cb7ab6048aa5094"
+  },
+  {
+    "file": "onigiri_021.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (21).jpg",
+    "split": "test",
+    "objects": 2,
+    "sha256": "612f6d4d9d551dcd2926d1b64c44e118a28a5bbc8126eea445ae31fd20c30973"
+  },
+  {
+    "file": "onigiri_022.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (22).jpg",
+    "split": "train",
+    "objects": 2,
+    "sha256": "4d694db60951d976a59cec12df810a00a717645ba1fda1e83cab6e30ae03cf48"
+  },
+  {
+    "file": "onigiri_030.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (30).jpg",
+    "split": "train",
+    "objects": 2,
+    "sha256": "4070d407250cfa10690054c78123163662130a4f8288f72238a40e6fc40e9332"
+  },
+  {
+    "file": "onigiri_031.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (31).jpg",
+    "split": "train",
+    "objects": 2,
+    "sha256": "d068ba9bd6301ed893d6732c7005e779dcdb818153feda32f898089aa31567f6"
+  },
+  {
+    "file": "onigiri_032.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (32).jpg",
+    "split": "val",
+    "objects": 3,
+    "sha256": "73efd41a05337b8ee80fb1def6d8734c54e4f2a3a519067574fa9829110f65e0"
+  },
+  {
+    "file": "onigiri_033.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (33).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "f8620f65e953e7bcc4732b3763d99dfc07261a86a30ace2e02fb71231b451d51"
+  },
+  {
+    "file": "onigiri_034.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (34).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "2f2aae4dcaa44d1863b57e56e825a02dd0300e35a75c35066cdef0de62bae873"
+  },
+  {
+    "file": "onigiri_035.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (35).jpg",
+    "split": "test",
+    "objects": 1,
+    "sha256": "5d85c8e003f6c0e0f4919bc587eb29aafce409a5da8a4296c2b6d58faa7c6511"
+  },
+  {
+    "file": "onigiri_037.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (37).jpg",
+    "split": "train",
+    "objects": 1,
+    "sha256": "240ed0b963c7917f3c6f44ce60df5301dcfcad4fffaff0ebe86e3e8b08dd1848"
+  },
+  {
+    "file": "onigiri_038.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (38).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "34fcff32a43d6dc23d54ab4ab58d47f5b5f6911f54b4db297d09c92c00ba06f4"
+  },
+  {
+    "file": "onigiri_042.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (42).jpg",
+    "split": "val",
+    "objects": 1,
+    "sha256": "b9f9aa6d4fa913822fca77a76d041f7b244a2b2049b2925bd9ce17e66f3a9ffc"
+  },
+  {
+    "file": "onigiri_046.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (46).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "603559c3cb5457b9837fcc563eed828906c06ba70dc38476b03b2ce324dd0850"
+  },
+  {
+    "file": "onigiri_047.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (47).jpg",
+    "split": "train",
+    "objects": 3,
+    "sha256": "6428275c36dee3cc4e9542b6b2a044cf328e6d2917777aceffe71fff70fd88fd"
+  },
+  {
+    "file": "onigiri_048.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (48).jpg",
+    "split": "test",
+    "objects": 4,
+    "sha256": "092b5fa72e28b7e01de5e0d2c61edab2ab6af78267f93b708e917cbe933e86b6"
+  },
+  {
+    "file": "onigiri_050.jpg",
+    "source": "5_Image_classification/data/train/onigiri/onigiri (50).jpg",
+    "split": "train",
+    "objects": 2,
+    "sha256": "257997e66b6e878debe9b8039a2c7a1ff74fb9d1483e1a0a2b8be8f4c4f1c210"
+  }
+]
